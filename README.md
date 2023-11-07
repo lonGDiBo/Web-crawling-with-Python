@@ -3,6 +3,7 @@
 Tại project này mình sẽ thực hiện 2 project nhỏ khác nhau
 
 ### 1. Xây dựng bot thu thập dữ liệu người dùng trên LinkedIn với mục đích công việc theo ý của bạn
+- Vị trí dự án: Thư mục: Scraping_InforUerLinkedIn
 - Trang LinkedIn: https://www.linkedin.com/
 - How to use my code
    + Nhập user và pass của tài khoản linkedIn cá nhân của bạn vào file text (User_pass.txt)
@@ -19,6 +20,7 @@ Tại project này mình sẽ thực hiện 2 project nhỏ khác nhau
 
 ### 2. Cào dữ liệu đơn giản thông tin tuyển dụng việc làm từ website 
 - Trang lấy dữ liệu: https://www.timesjobs.com/candidate/contact.html
+- Vị trí dự án: file Scraping_Jobs_Website.ipynb
 - Requirements:
   + Python 3.8 trở lên
   + Requests
