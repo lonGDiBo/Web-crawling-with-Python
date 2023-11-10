@@ -4,7 +4,7 @@ In this project, I will undertake four different sub-projects, ranging from simp
 
 ### 1. Building a bot to collect user data on LinkedIn for your own job-related purposes
 - Data Source: https://www.linkedin.com/
-- Project Location: Folder: Scraping_UserLinkedIn
+- Project Location: [Folder: Scraping_UserLinkedIn](https://github.com/lonGDiBo/Web-crawling-with-Python/tree/main/Scraping_InforUserLinkedIn)
 - How to use my code
    + Input your personal LinkedIn username and password into the text file (User_pass.txt).
    + Execute each shell in the scraping_LinkedIn.ipynb file.
@@ -20,7 +20,7 @@ In this project, I will undertake four different sub-projects, ranging from simp
 
 ### 2. Simple Data Scraping of Job Information from a Website
 - Data Source: https://www.timesjobs.com/candidate/contact.html
-- Project Location: file Scraping_Jobs_Website.ipynb
+- Project Location: [file Scraping_Jobs_Website.ipynb](https://github.com/lonGDiBo/Web-crawling-with-Python/blob/main/Scraping_Jobs_Website.ipynb)
 - Requirements:
   + Python 3.8 or higher
   + Requests
@@ -33,7 +33,7 @@ In this project, I will undertake four different sub-projects, ranging from simp
 
   ### 3. Scraping Revenue Data of Companies from Wikipedia
   - Data source: https://en.wikipedia.org/wiki/List_of_largest_companies_in_the_United_States_by_revenue
-  - Project location: File craw_data_web.ipynb
+  - Project location: [File craw_data_web.ipynb](https://github.com/lonGDiBo/Web-crawling-with-Python/blob/main/craw_data_web.ipynb)
   - Requirements:
      + Python 3.8 or higher
      + Requests
@@ -44,7 +44,7 @@ In this project, I will undertake four different sub-projects, ranging from simp
 
 ### 4. Scraping Top movie Data
 - Data source: https://www.imdb.com/chart/top/
-- Project location: File Crawl_TopMovie_DataWeb.ipynb
+- Project location: [File Crawl_TopMovie_DataWeb.ipynb](https://github.com/lonGDiBo/Web-crawling-with-Python/blob/main/Crawl_TopMovie_DataWeb.ipynb)
 - Requirements:
      + Python 3.8 or higher
      + Requests
