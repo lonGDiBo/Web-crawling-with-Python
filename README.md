@@ -1,6 +1,6 @@
 # Web-crawling-with-Python
 
-In this project, I will undertake three different sub-projects, ranging from simple data scraping to more complex tasks.
+In this project, I will undertake four different sub-projects, ranging from simple data scraping to more complex tasks.
 
 ### 1. Building a bot to collect user data on LinkedIn for your own job-related purposes
 - Data Source: https://www.linkedin.com/
@@ -41,4 +41,14 @@ In this project, I will undertake three different sub-projects, ranging from sim
 - Achieved Results:
   A ranking table of companies along with their respective revenues(table below is an example of one of the tables scraped from the web)
   ![image](https://github.com/lonGDiBo/Web-crawling-with-Python/assets/115699195/f4c0c51a-d03f-4d27-8d6b-e5f2e1bf1272)
+
+### 4. Scraping Top movie Data
+- Data source: https://www.imdb.com/chart/top/
+- Requirements:
+     + Python 3.8 or higher
+     + Requests
+     + BeautifulSoup
+- Achieved Results:
+Top 250 most popular movies
+![image](https://github.com/lonGDiBo/Web-crawling-with-Python/assets/115699195/46abc1ed-e888-4e8a-aac1-1a40f86ded07)
 
