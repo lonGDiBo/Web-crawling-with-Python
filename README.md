@@ -53,3 +53,6 @@ In this project, I will undertake four different sub-projects, ranging from simp
 Top 250 most popular movies
 ![image](https://github.com/lonGDiBo/Web-crawling-with-Python/assets/115699195/46abc1ed-e888-4e8a-aac1-1a40f86ded07)
 
+- Contact me to more detailed information or how to use code
+  + email: longpm211@gmail.com
+  + LinkedIn: https://www.linkedin.com/in/minhlongba/
